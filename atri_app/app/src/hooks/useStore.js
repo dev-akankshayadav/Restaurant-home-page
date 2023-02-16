@@ -473,7 +473,7 @@ const desktopModeProps = {
     },
     "TextBox3": {
       "custom": {
-        "text": "The best place to eat burgers in LA."
+        "text": "The best place to "
       },
       "callbacks": {
         "onClick": [
@@ -486,6 +486,18 @@ const desktopModeProps = {
     "TextBox4": {
       "custom": {
         "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox188": {
+      "custom": {
+        "text": "eat burgers in LA."
       },
       "callbacks": {
         "onClick": [
@@ -610,7 +622,7 @@ const desktopModeProps = {
     },
     "TextBox10": {
       "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam"
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam!"
       },
       "callbacks": {
         "onClick": [

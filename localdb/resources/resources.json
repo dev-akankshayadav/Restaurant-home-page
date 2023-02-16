@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "str": " @import url(\"https://fonts.googleapis.com/css?family=DM Sans\");",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
