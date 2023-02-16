@@ -4031,3 +4031,19 @@ export function useImage96Cb() {
 }), [])
 	return { onClick }
 }
+export function useTextBox188Cb() {
+	const onClick = useCallback(callbackFactory("TextBox188", "Home", "/Home", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
