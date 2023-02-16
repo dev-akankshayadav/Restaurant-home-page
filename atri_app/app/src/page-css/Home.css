@@ -102,7 +102,8 @@ border-color: #cccccc;
 display: flex;
 justify-content: center;
 align-items: center;
-margin-bottom: 20px;
+margin-bottom: 40px;
+margin-top: 20px;
 }
 .p-Home.Flex24 {
 display: flex;
@@ -144,7 +145,7 @@ border-style: none;
 border-color: #000000;
 margin-left: 200px;
 margin-top: 300px;
-background-color: #f6efef;
+background-color: #ffffffff;
 border-radius: 15px;
 width: 420px;
 height: 300px;
@@ -535,6 +536,7 @@ height: 100px;
 .p-Home.Flex139 {
 display: flex;
 border-style: none;
+flex-direction: column;
 margin-left: 20px;
 padding-top: 15px;
 padding-left: 15px;
@@ -553,6 +555,7 @@ border-style: none;
 margin-top: 5px;
 margin-bottom: 5px;
 margin-left: 55px;
+font-family: DM Sans;
 }
 .p-Home.Flex94 {
 display: flex;
@@ -564,6 +567,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-top: 5px;
 padding-bottom: 5px;
+font-family: DM Sans;
 }
 .p-Home.Flex96 {
 display: flex;
@@ -573,6 +577,7 @@ margin-left: 55px;
 padding-top: 10px;
 padding-left: 10px;
 padding-right: 10px;
+font-family: DM Sans;
 }
 .p-Home.Flex100 {
 display: flex;
@@ -675,10 +680,12 @@ font-size: 25px;
 margin-bottom: 50px;
 align-self: center;
 text-align: center;
+font-family: DM Sans;
 }
 .p-Home.TextBox47 {
 text-align: center;
 font-size: 32px;
+font-family: DM Sans;
 }
 .p-Home.TextBox48 {
 text-align: center;
@@ -689,6 +696,7 @@ padding-right: 10px;
 margin-left: 0px;
 margin-top: 5px;
 margin-bottom: 20px;
+font-family: DM Sans;
 }
 .p-Home.Image2 {
 width: 245px;
@@ -702,16 +710,20 @@ cursor: pointer;
 row-gap: 1px;
 border-style: none;
 cursor: pointer;
+font-family: DM Sans;
 }
 .p-Home.UnorderedList2 {
 cursor: pointer;
+font-family: DM Sans;
 }
 .p-Home.UnorderedList3 {
 color: #868282;
 cursor: pointer;
+font-family: DM Sans;
 }
 .p-Home.UnorderedList4 {
 cursor: pointer;
+font-family: DM Sans;
 }
 .p-Home.Button2 {
 color: #000000;
@@ -734,6 +746,7 @@ width: 150px;
 height: 50px;
 margin-left: 20px;
 margin-right: 5px;
+font-family: DM Sans;
 }
 .p-Home.Button3 {
 color: #fff;
@@ -755,9 +768,11 @@ user-select: none;
 width: 150px;
 height: 50px;
 margin-right: 15px;
+font-family: DM Sans;
 }
 .p-Home.UnorderedList5 {
 cursor: pointer;
+font-family: DM Sans;
 }
 .p-Home.Div14 {
 background-color: #FF7629ff;
@@ -772,7 +787,7 @@ position: absolute;
 border-radius: 20px;
 }
 .p-Home.TextBox3 {
-margin-top: 100px;
+margin-top: 85px;
 margin-left: 20px;
 font-size: 50px;
 margin-right: 60px;
@@ -784,6 +799,8 @@ padding-top: 5px;
 padding-left: 5px;
 padding-bottom: 5px;
 padding-right: 5px;
+font-family: DM Sans;
+font-weight: 400;
 }
 .p-Home.TextBox4 {
 margin-top: 10px;
@@ -794,6 +811,18 @@ margin-bottom: 20px;
 padding-top: 10px;
 padding-bottom: 10px;
 padding-right: 10px;
+font-family: DM Sans;
+color: #757575ff;
+}
+.p-Home.TextBox188 {
+padding-top: 5px;
+padding-left: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+font-size: 50px;
+font-family: DM Sans;
+color: #FF7629ff;
+margin-left: 20px;
 }
 .p-Home.Button4 {
 color: #ffff;
@@ -814,6 +843,7 @@ cursor: pointer;
 user-select: none;
 width: 150px;
 height: 50px;
+font-family: DM Sans;
 }
 .p-Home.Button5 {
 background-color: #ffffff;
@@ -834,6 +864,7 @@ user-select: none;
 width: 150px;
 height: 50px;
 margin-left: 20px;
+font-family: DM Sans;
 }
 .p-Home.TextBox7 {
 margin-left: 300px;
@@ -841,12 +872,13 @@ color: #000000;
 font-size: 25px;
 margin-top: 50px;
 margin-bottom: 10px;
-width: 370px;
+width: 450px;
 text-align: justify;
 padding-top: 5px;
 padding-left: 5px;
 padding-bottom: 5px;
 padding-right: 5px;
+font-family: DM Sans;
 }
 .p-Home.Image4 {
 margin-left: 15px;
@@ -867,13 +899,14 @@ margin-right: 15px;
 .p-Home.Image9 {
 width: 114px;
 height: 114px;
-margin-top: 5px;
+margin-top: 15px;
 margin-bottom: 5px;
 }
 .p-Home.TextBox9 {
 margin-top: 5px;
-margin-bottom: 5px;
+margin-bottom: 15px;
 color: #FF7629;
+font-family: DM Sans;
 }
 .p-Home.TextBox10 {
 color: #514e4e;
@@ -881,22 +914,25 @@ padding-left: 10px;
 padding-right: 10px;
 padding-top: 10px;
 padding-bottom: 10px;
+font-family: DM Sans;
 }
 .p-Home.TextBox11 {
-margin-bottom: 5px;
-margin-top: 0px;
 font-size: 24px;
+font-family: DM Sans;
+padding-bottom: 5px;
+padding-top: 5px;
 }
 .p-Home.Image11 {
 width: 114px;
 height: 114px;
-margin-top: 5px;
+margin-top: 15px;
 margin-bottom: 5px;
 }
 .p-Home.TextBox12 {
-margin-top: 5px;
-margin-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
+padding-top: 5px;
+padding-bottom: 5px;
 }
 .p-Home.TextBox13 {
 color: #514e4e;
@@ -904,22 +940,25 @@ padding-top: 10px;
 padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
+font-family: DM Sans;
 }
 .p-Home.TextBox14 {
 margin-top: 5px;
-margin-bottom: 5px;
+margin-bottom: 15px;
 color: #FF7629ff;
+font-family: DM Sans;
 }
 .p-Home.Image10 {
 width: 114px;
 height: 114px;
-margin-top: 5px;
+margin-top: 15px;
 margin-bottom: 5px;
 }
 .p-Home.TextBox17 {
-margin-top: 5px;
-margin-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
+padding-top: 5px;
+padding-bottom: 5px;
 }
 .p-Home.TextBox19 {
 color: #514e4e;
@@ -927,27 +966,31 @@ padding-top: 10px;
 padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
+font-family: DM Sans;
 }
 .p-Home.TextBox21 {
 margin-top: 5px;
-margin-bottom: 5px;
+margin-bottom: 15px;
 color: #FF7629;
+font-family: DM Sans;
 }
 .p-Home.Image12 {
 width: 114px;
 height: 114px;
-margin-top: 5px;
+margin-top: 15px;
 margin-bottom: 5px;
 }
 .p-Home.TextBox22 {
-margin-top: 5px;
-margin-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
+padding-top: 5px;
+padding-bottom: 5px;
 }
 .p-Home.TextBox23 {
 margin-top: 5px;
-margin-bottom: 5px;
+margin-bottom: 15px;
 color: #FF7629;
+font-family: DM Sans;
 }
 .p-Home.TextBox24 {
 color: #514e4e;
@@ -955,6 +998,7 @@ padding-top: 10px;
 padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
+font-family: DM Sans;
 }
 .p-Home.Button6 {
 color: #fff;
@@ -979,6 +1023,7 @@ margin-top: 5px;
 margin-left: 5px;
 margin-right: 5px;
 margin-bottom: 5px;
+font-family: DM Sans;
 }
 .p-Home.Button7 {
 color: #060606;
@@ -1003,6 +1048,7 @@ margin-top: 5px;
 margin-left: 5px;
 margin-bottom: 5px;
 margin-right: 5px;
+font-family: DM Sans;
 }
 .p-Home.Image14 {
 width: 460px;
@@ -1016,16 +1062,21 @@ font-size: 25px;
 color: #0a0a0a;
 outline-color: #000000;
 margin-bottom: 15px;
+text-align: left;
+font-family: DM Sans;
+font-weight: 400;
 }
 .p-Home.TextBox35 {
 font-size: 15px;
 color: #8d8d8dff;
 margin-bottom: 15px;
+font-family: DM Sans;
 }
 .p-Home.TextBox36 {
 border-color: #8d8d8d;
 margin-bottom: 15px;
 color: #8d8d8dff;
+font-family: DM Sans;
 }
 .p-Home.Button9 {
 color: #0a0a0a;
@@ -1045,6 +1096,7 @@ border-color: #0e0e0eff;
 cursor: pointer;
 user-select: none;
 margin-right: 20px;
+font-family: DM Sans;
 }
 .p-Home.Button10 {
 color: #ffff;
@@ -1063,6 +1115,7 @@ border-style: solid;
 border-color: #ff6e18ff;
 cursor: pointer;
 user-select: none;
+font-family: DM Sans;
 }
 .p-Home.TextBox37 {
 align-self: flex-start;
@@ -1075,6 +1128,7 @@ padding-top: 5px;
 padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
+font-family: DM Sans;
 }
 .p-Home.Image15 {
 margin-right: 20px;
@@ -1085,11 +1139,15 @@ padding-top: 5px;
 padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
+font-family: DM Sans;
+color: #8d8d8dff;
 }
 .p-Home.Image16 {
 margin-right: 20px;
 }
 .p-Home.TextBox39 {
+font-family: DM Sans;
+color: #8d8d8dff;
 }
 .p-Home.Image17 {
 margin-right: 20px;
@@ -1099,6 +1157,10 @@ padding-top: 5px;
 padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
+font-family: DM Sans;
+border-color: #8d8d8dff;
+outline-color: #8d8d8dff;
+color: #8d8d8dff;
 }
 .p-Home.Image18 {
 width: 50%;
@@ -1111,6 +1173,7 @@ margin-bottom: 55px;
 text-align: left;
 font-size: 38px;
 max-width: 80%;
+font-family: DM Sans;
 }
 .p-Home.TextBox44 {
 align-self: center;
@@ -1126,6 +1189,7 @@ margin-right: 5px;
 padding-bottom: 5px;
 font-size: 16px;
 max-width: 80%;
+font-family: DM Sans;
 }
 .p-Home.Button11 {
 color: #1b1818;
@@ -1145,6 +1209,7 @@ border-color: #959595ff;
 cursor: pointer;
 user-select: none;
 margin-right: 55px;
+font-family: DM Sans;
 }
 .p-Home.Button12 {
 color: #fff;
@@ -1163,6 +1228,7 @@ border-style: solid;
 border-color: #f1eaea;
 cursor: pointer;
 user-select: none;
+font-family: DM Sans;
 }
 .p-Home.Image19 {
 width: 250px;
@@ -1177,6 +1243,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
 }
 .p-Home.TextBox50 {
 text-align: center;
@@ -1188,6 +1255,7 @@ width: 250px;
 height: 50px;
 max-height: 100px;
 color: #676767;
+font-family: DM Sans;
 }
 .p-Home.TextBox76 {
 position: absolute;
@@ -1223,6 +1291,7 @@ width: 250px;
 height: 50px;
 max-height: 100px;
 color: #676767;
+font-family: DM Sans;
 }
 .p-Home.TextBox79 {
 text-align: center;
@@ -1232,6 +1301,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
 }
 .p-Home.Image46 {
 width: 250px;
@@ -1260,6 +1330,7 @@ width: 250px;
 height: 50px;
 max-height: 100px;
 color: #676767;
+font-family: DM Sans;
 }
 .p-Home.TextBox82 {
 text-align: center;
@@ -1269,6 +1340,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
 }
 .p-Home.Image47 {
 width: 250px;
@@ -1288,6 +1360,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
 }
 .p-Home.TextBox99 {
 text-align: center;
@@ -1299,6 +1372,7 @@ width: 250px;
 height: 50px;
 max-height: 100px;
 color: #676767;
+font-family: DM Sans;
 }
 .p-Home.TextBox100 {
 position: absolute;
@@ -1325,6 +1399,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
 }
 .p-Home.TextBox102 {
 text-align: center;
@@ -1336,6 +1411,7 @@ width: 250px;
 height: 50px;
 max-height: 100px;
 color: #676767;
+font-family: DM Sans;
 }
 .p-Home.TextBox103 {
 position: absolute;
@@ -1362,6 +1438,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
 }
 .p-Home.TextBox105 {
 text-align: center;
@@ -1373,6 +1450,7 @@ width: 250px;
 height: 50px;
 max-height: 100px;
 color: #676767;
+font-family: DM Sans;
 }
 .p-Home.TextBox106 {
 position: absolute;
@@ -1399,6 +1477,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
 }
 .p-Home.TextBox108 {
 text-align: center;
@@ -1410,6 +1489,7 @@ width: 250px;
 height: 50px;
 max-height: 100px;
 color: #676767;
+font-family: DM Sans;
 }
 .p-Home.TextBox109 {
 position: absolute;
@@ -1436,6 +1516,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 font-size: 24px;
+font-family: DM Sans;
 }
 .p-Home.TextBox111 {
 text-align: center;
@@ -1447,6 +1528,7 @@ width: 250px;
 height: 50px;
 max-height: 100px;
 color: #676767;
+font-family: DM Sans;
 }
 .p-Home.TextBox112 {
 position: absolute;
@@ -1483,6 +1565,7 @@ margin-top: 5px;
 margin-left: 5px;
 margin-bottom: 5px;
 margin-right: 5px;
+font-family: DM Sans;
 }
 .p-Home.Button16 {
 color: #fff;
@@ -1507,6 +1590,7 @@ margin-top: 5px;
 margin-left: 5px;
 margin-right: 50px;
 margin-bottom: 5px;
+font-family: DM Sans;
 }
 .p-Home.TextBox69 {
 padding-top: 10px;
@@ -1515,6 +1599,7 @@ padding-right: 10px;
 padding-bottom: 10px;
 text-align: center;
 font-size: 32px;
+font-family: DM Sans;
 }
 .p-Home.TextBox70 {
 padding-top: 10px;
@@ -1522,15 +1607,13 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 text-align: center;
-
 color: #615a5a;
 max-width: 50%;
+font-family: DM Sans;
 }
 .p-Home.Image29 {
-
 }
 .p-Home.Image32 {
-
 }
 .p-Home.Image34 {
 width: 50px;
@@ -1552,9 +1635,9 @@ padding-top: 5px;
 padding-left: 5px;
 padding-bottom: 5px;
 padding-right: 5px;
-
 margin-bottom: 15px;
 font-size:  24px;
+font-family: DM Sans;
 }
 .p-Home.TextBox72 {
 padding-top: 5px;
@@ -1564,6 +1647,7 @@ padding-right: 5px;
 margin-bottom: 15px;
 border-color: #747272;
 color: #7e7c7c;
+font-family: DM Sans;
 }
 .p-Home.Image37 {
 width: 30px;
@@ -1616,9 +1700,11 @@ padding-right: 10px;
 }
 .p-Home.TextBox74 {
 color: #595858;
+font-family: DM Sans;
 }
 .p-Home.TextBox75 {
 color: #000000;
+font-family: DM Sans;
 }
 .p-Home.Button17 {
 color: #fff;
@@ -1643,6 +1729,7 @@ margin-top: 5px;
 margin-left: 5px;
 margin-right: 50px;
 margin-bottom: 5px;
+font-family: DM Sans;
 }
 .p-Home.Button18 {
 color: #060606;
@@ -1667,6 +1754,7 @@ margin-top: 5px;
 margin-left: 5px;
 margin-bottom: 5px;
 margin-right: 5px;
+font-family: DM Sans;
 }
 .p-Home.Button30 {
 color: #010101;
@@ -1685,6 +1773,7 @@ border-style: none;
 border-color: #202e3c;
 cursor: pointer;
 user-select: none;
+font-family: DM Sans;
 }
 .p-Home.TextBox147 {
 font-size: 32px;
@@ -1693,6 +1782,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 margin-left: 50px;
+font-family: DM Sans;
 }
 .p-Home.Image97 {
 width: 244px;
@@ -1707,6 +1797,7 @@ padding-right: 5px;
 padding-bottom: 5px;
 color: #737373;
 align-self: flex-start;
+font-family: DM Sans;
 }
 .p-Home.TextBox153 {
 font-size: 16px;
@@ -1714,6 +1805,8 @@ padding-top: 5px;
 padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
+font-family: DM Sans;
+text-align: left;
 }
 .p-Home.Image98 {
 width: 244px;
@@ -1728,6 +1821,7 @@ padding-right: 5px;
 padding-bottom: 5px;
 color: #737373;
 align-self: flex-start;
+font-family: DM Sans;
 }
 .p-Home.TextBox155 {
 font-size: 16px;
@@ -1736,6 +1830,8 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 align-self: flex-start;
+font-family: DM Sans;
+text-align: left;
 }
 .p-Home.Image99 {
 width: 244px;
@@ -1751,6 +1847,7 @@ padding-bottom: 5px;
 color: #737373;
 text-align: left;
 align-self: flex-start;
+font-family: DM Sans;
 }
 .p-Home.TextBox157 {
 font-size: 16px;
@@ -1759,6 +1856,7 @@ padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
 text-align: left;
+font-family: DM Sans;
 }
 .p-Home.Image100 {
 width: 244px;
@@ -1774,6 +1872,7 @@ padding-bottom: 5px;
 color: #737373;
 text-align: left;
 align-self: flex-start;
+font-family: DM Sans;
 }
 .p-Home.TextBox159 {
 font-size: 16px;
@@ -1781,6 +1880,8 @@ padding-top: 5px;
 padding-left: 5px;
 padding-right: 5px;
 padding-bottom: 5px;
+font-family: DM Sans;
+text-align: left;
 }
 .p-Home.TextBox149 {
 padding-top: 10px;
@@ -1791,6 +1892,7 @@ border-color: #000000ff;
 color: #8f8f8f;
 font-size: 15px;
 text-align: left;
+font-family: DM Sans;
 }
 .p-Home.TextBox150 {
 padding-top: 10px;
@@ -1799,6 +1901,7 @@ padding-right: 10px;
 padding-bottom: 10px;
 font-size: 26px;
 text-align: left;
+font-family: DM Sans;
 }
 .p-Home.TextBox151 {
 padding-top: 10px;
@@ -1808,6 +1911,7 @@ padding-bottom: 10px;
 color: #737373;
 font-size:  15px;
 text-align: left;
+font-family: DM Sans;
 }
 .p-Home.Image96 {
 border-radius: 35px;
@@ -1838,10 +1942,11 @@ user-select: none;
 width: 200px;
 height: 50px;
 margin-top: 5px;
-margin-left: 30px;
+margin-left: 35px;
 margin-right: 50px;
 margin-bottom: 5px;
 align-self: flex-start;
+font-family: DM Sans;
 }
 .p-Home.TextBox172 {
 padding-top: 10px;
@@ -1849,6 +1954,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 font-size: 18px;
+font-family: DM Sans;
 }
 .p-Home.Input4 {
 box-sizing: border-box;
@@ -1866,6 +1972,7 @@ border-width: 1px;
 border-style: solid;
 border-color: #d9d9d9ff;
 border-radius: 20px;
+font-family: DM Sans;
 }
 .p-Home.TextBox171 {
 padding-top: 10px;
@@ -1873,6 +1980,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 font-size: 18px;
+font-family: DM Sans;
 }
 .p-Home.Input5 {
 box-sizing: border-box;
@@ -1890,6 +1998,7 @@ border-width: 2px;
 border-style: solid;
 border-color: #d9d9d9;
 border-radius: 20px;
+font-family: DM Sans;
 }
 .p-Home.Input8 {
 box-sizing: border-box;
@@ -1907,6 +2016,7 @@ border-width: 2px;
 border-style: solid;
 border-color: #d9d9d9;
 border-radius: 20px;
+font-family: DM Sans;
 }
 .p-Home.TextBox175 {
 padding-top: 10px;
@@ -1914,6 +2024,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 font-size: 18px;
+font-family: DM Sans;
 }
 .p-Home.Input9 {
 box-sizing: border-box;
@@ -1931,6 +2042,7 @@ border-width: 1px;
 border-style: solid;
 border-color: #d9d9d9ff;
 border-radius: 20px;
+font-family: DM Sans;
 }
 .p-Home.TextBox176 {
 padding-top: 10px;
@@ -1938,6 +2050,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 font-size: 18px;
+font-family: DM Sans;
 }
 .p-Home.Input10 {
 box-sizing: border-box;
@@ -1955,6 +2068,7 @@ border-width: 2px;
 border-style: solid;
 border-color: #d9d9d9;
 border-radius: 20px;
+font-family: DM Sans;
 }
 .p-Home.TextBox177 {
 padding-top: 10px;
@@ -1962,6 +2076,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 font-size: 18px;
+font-family: DM Sans;
 }
 .p-Home.Input11 {
 box-sizing: border-box;
@@ -1979,6 +2094,7 @@ border-width: 1px;
 border-style: solid;
 border-color: #d9d9d9ff;
 border-radius: 20px;
+font-family: DM Sans;
 }
 .p-Home.TextBox178 {
 padding-top: 10px;
@@ -1986,6 +2102,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 font-size: 18px;
+font-family: DM Sans;
 }
 .p-Home.TextBox179 {
 padding-top: 10px;
@@ -1993,6 +2110,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 font-size: 18px;
+font-family: DM Sans;
 }
 .p-Home.Input12 {
 box-sizing: border-box;
@@ -2012,6 +2130,7 @@ border-color: #000000ff;
 border-radius: 20px;
 width: 424px;
 height: 180px;
+font-family: DM Sans;
 }
 .p-Home.TextBox142 {
 margin-left: 50px;
@@ -2022,6 +2141,7 @@ padding-right: 10px;
 padding-bottom: 10px;
 text-align: left;
 font-size: 32px;
+font-family: DM Sans;
 }
 .p-Home.TextBox143 {
 margin-left: 50px;
@@ -2032,6 +2152,7 @@ padding-bottom: 10px;
 text-align: left;
 color: #615a5aff;
 max-width: 50%;
+font-family: DM Sans;
 }
 .p-Home.TextBox136 {
 width: 150px;
@@ -2067,6 +2188,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 color: #010101;
+font-family: DM Sans;
 }
 .p-Home.Button27 {
 color: #fff;
@@ -2085,6 +2207,7 @@ border-style: none;
 border-color: #202e3c;
 cursor: pointer;
 user-select: none;
+font-family: DM Sans;
 }
 .p-Home.Image75 {
 width: 300px;
@@ -2147,6 +2270,7 @@ padding-right: 15px;
 padding-bottom: 15px;
 width: 244px;
 height: 33px;
+font-family: DM Sans;
 }
 .p-Home.TextBox161 {
 padding-top: 15px;
@@ -2155,6 +2279,7 @@ padding-right: 15px;
 padding-bottom: 15px;
 text-align: left;
 color: #6a6868;
+font-family: DM Sans;
 }
 .p-Home.Image102 {
 width: 30px;
@@ -2222,8 +2347,9 @@ padding-right: 10px;
 padding-bottom: 10px;
 font-size: 20px;
 height: 20px;
-width: 200px;
+width: 100%;
 text-align: left;
+font-family: DM Sans;
 }
 .p-Home.Image109 {
 width: 145px;
@@ -2250,35 +2376,50 @@ padding-right: 10px;
 padding-bottom: 20px;
 font-size: 20px;
 margin-top: 5px;
+font-family: DM Sans;
 }
 .p-Home.UnorderedList7 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList8 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList9 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList10 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList11 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList12 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList13 {
 color: #7f7c7cff;
+font-family: DM Sans;
 }
 .p-Home.UnorderedList21 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList22 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList23 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList24 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList25 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList26 {
+font-family: DM Sans;
 }
 .p-Home.UnorderedList27 {
+font-family: DM Sans;
 }
 .p-Home.TextBox167 {
 padding-top: 20px;
@@ -2287,4 +2428,5 @@ padding-right: 10px;
 padding-bottom: 20px;
 font-size: 20px;
 margin-top: 5px;
+font-family: DM Sans;
 }
