@@ -1178,10 +1178,10 @@ const TextBox167Cb = useTextBox167Cb()
 <Flex className="p-Home Flex126 bpt" {...Flex126Props} {...Flex126Cb} {...Flex126IoProps}>
 <TextBox className="p-Home TextBox167 bpt" {...TextBox167Props} {...TextBox167Cb} {...TextBox167IoProps}/>
 <UnorderedList className="p-Home UnorderedList21 bpt" {...UnorderedList21Props} {...UnorderedList21Cb} {...UnorderedList21IoProps}/>
-<UnorderedList className="p-Home UnorderedList25 bpt" {...UnorderedList25Props} {...UnorderedList25Cb} {...UnorderedList25IoProps}/>
 <UnorderedList className="p-Home UnorderedList24 bpt" {...UnorderedList24Props} {...UnorderedList24Cb} {...UnorderedList24IoProps}/>
-<UnorderedList className="p-Home UnorderedList23 bpt" {...UnorderedList23Props} {...UnorderedList23Cb} {...UnorderedList23IoProps}/>
+<UnorderedList className="p-Home UnorderedList25 bpt" {...UnorderedList25Props} {...UnorderedList25Cb} {...UnorderedList25IoProps}/>
 <UnorderedList className="p-Home UnorderedList22 bpt" {...UnorderedList22Props} {...UnorderedList22Cb} {...UnorderedList22IoProps}/>
+<UnorderedList className="p-Home UnorderedList23 bpt" {...UnorderedList23Props} {...UnorderedList23Cb} {...UnorderedList23IoProps}/>
 <UnorderedList className="p-Home UnorderedList27 bpt" {...UnorderedList27Props} {...UnorderedList27Cb} {...UnorderedList27IoProps}/>
 <UnorderedList className="p-Home UnorderedList26 bpt" {...UnorderedList26Props} {...UnorderedList26Cb} {...UnorderedList26IoProps}/>
 </Flex>
